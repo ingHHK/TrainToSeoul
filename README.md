@@ -1,6 +1,6 @@
 # TrainToSeoul  
 
-### 201511013 김현호 / 201511059 정우철 / 201511066 최낙원 
+### 김현호 /  정우철 /  최낙원 
 
 https://drive.google.com/open?id=1M9B0hdpqW2i71cpJo6Y6jlYeZhYVXeWB
 
